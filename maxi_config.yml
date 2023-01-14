@@ -1,0 +1,5 @@
+current_regular_price : price__value selling-price-list__item__price selling-price-list__item__price--now-price selling-price-list__item__price--__value
+relative_price : class_="price__value comparison-price-list__item__price__value"
+relative_price_unit : class_="price__unit comparison-price-list__item__price__unit"
+special_tag : "text text--small3 text--left global-color-black product-promo__badge__content"
+before_price : "price__value selling-price-list__item__price selling-price-list__item__price--was-price selling-price-list__item__price--__value"
